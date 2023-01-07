@@ -1,7 +1,5 @@
 # e2e_test_712023
-WebdriverIO framework, Cucumber, Nodejs, TypeScript
-# e2e_test_31122022
-
+## WebdriverIO framework, Cucumber, Nodejs, TypeScript
 
 
 <p align="center">
